@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"gopkg.in/redis.v3/internal/consistenthash"
+	"github.com/wjessop/redis/internal/consistenthash"
 )
 
 var (
