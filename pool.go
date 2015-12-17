@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/bsm/ratelimit/tree/v1"
+	"gopkg.in/bsm/ratelimit/tree/v1"
 )
 
 var (
